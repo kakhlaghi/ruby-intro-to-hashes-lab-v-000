@@ -12,7 +12,9 @@ def monopoly
 	monopoly = {
 	  :railroads =>{
 	    pieces: 4,
-}
+  
+	    
+	  }
 	  
 	  
 	}
